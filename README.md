@@ -1,6 +1,6 @@
 # Login & Registration
 
-### A Django project with login/registration forms with validations  
+### A Django project with login/registration forms and validations  
 ##### From the Python (Django) stack at Coding Dojo
 
 
